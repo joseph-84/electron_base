@@ -1,0 +1,16 @@
+{
+  "name": "electron-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
